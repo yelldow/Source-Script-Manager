@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Source Script Manager": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
